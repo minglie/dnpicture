@@ -1,5 +1,6 @@
 import Vue from 'vue';
 import App from './App';
+import './mockserver/server'
 import request from './utils/request';
 
 Vue.config.productionTip = false;
